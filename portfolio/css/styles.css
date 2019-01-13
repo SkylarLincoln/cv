@@ -1,0 +1,76 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Yrsa', serif;
+  font-size: 1.25em;
+}
+
+h1 {
+  color: #13abc4;
+  font-family: 'Yrsa', serif;
+  font-size: 4rem;
+  margin: 0;
+  padding-left: 50px;
+  position: relative;
+  text-align: left;
+}
+
+h2 {
+  color: #3161a3;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  margin: 100px auto;
+}
+
+h3 {
+  color: #3161a3;
+  font-family: 'Open Sans', sans-serif;
+  margin: 100px auto;
+}
+
+hr {
+  border-style: dotted;
+  border-bottom: none;
+  border-width: 8px;
+  color: silver;
+  width: 5%;
+  margin: 75px auto;
+}
+
+.filler {
+  background-color: #7efaff;
+  margin: 0;
+  padding-top: 200px;
+}
+
+.top {
+  background-color: #7efaff;
+  margin: 0;
+  padding: 30px 5px 30px;
+}
+
+/* .websites {
+  position: static;
+  padding: 0 0 100px;
+} */
+
+.personal {
+position: relative;
+padding-bottom: 375px;
+}
+
+.personalCv {
+  display: inline-block;
+  box-shadow: 0 10px 5px 0 #3161a3;
+  position: absolute;
+  left: 200px;
+  width: 20%;
+}
+
+/* .pCv {
+  display: inline-block;
+  position: absolute;
+  left: 300px;
+  text-decoration: none;
+} */
